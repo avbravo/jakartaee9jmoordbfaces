@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.avbravo</groupId>
     <artifactId>jakartaee9jmoordbfaces</artifactId>
-    <version>1.0-3</version>
+    <version>1.0-4</version>
     <packaging>war</packaging>
     <name>jakartaee9jmoordbfaces</name>
     
@@ -111,6 +111,12 @@ jmoordbstack
             <scope>provided</scope>
         </dependency>
     
+    
+   <dependency>
+            <groupId>org.omnifaces</groupId>
+            <artifactId>omnifaces</artifactId>
+            <version>4.0-M13</version>
+        </dependency>
     </dependencies>
     
     <build>

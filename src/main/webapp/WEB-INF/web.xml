@@ -35,6 +35,13 @@
         <param-value>.xhtml .view.xml .jsp .jspx</param-value>
     </context-param>
     
+    
+<!--    <context-param>
+        <param-name>primefaces.THEME</param-name>
+        <param-value>saga</param-value>
+        <param-value>arya</param-value>
+    </context-param>-->
+    
 <!--    <context-param>
   <param-name>jakarta.faces.WEBSOCKET_ENDPOINT_PORT</param-name>
   <param-value>8000</param-value>
