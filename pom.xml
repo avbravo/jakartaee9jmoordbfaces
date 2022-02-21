@@ -114,7 +114,7 @@ jmoordbstack
     </dependencies>
     
     <build>
-        <finalName>jakartaee9-migration</finalName>
+        <finalName>jakartaee9jmoordbfaces</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
